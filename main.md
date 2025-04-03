@@ -1,6 +1,10 @@
 # Encounter Technical Documentation
 This document explains the technical aspects of our encounter system, detailing how interactive narrative elements are managed dynamically in our Unity game.
+#### Project Setup Details
 
+- **Unity Version:** 6000.0.34F1  
+- **Ink API Version:** 1.2.1
+  
 ## Main UI Elements in Encounter
 
 The main UI elements displayed during an encounter are generated dynamically. In this context, "dynamic" means that these elements are automatically created based on the current story progression, the choices made by the player, and preloaded game data.
